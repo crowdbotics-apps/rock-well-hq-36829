@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-job-details-provider-view](screens/job-details-provider-view)
 - [screen-direct-messages](screens/direct-messages)
 - [react-native-chat](modules/chat)
+- [camera]()
 
 # Getting started: Frontend
 
