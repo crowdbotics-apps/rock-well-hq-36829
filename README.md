@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-direct-messages](screens/direct-messages)
 - [react-native-chat](modules/chat)
 - [camera]()
+- [screen-appointment-booking](screens/book-appointment)
 
 # Getting started: Frontend
 
