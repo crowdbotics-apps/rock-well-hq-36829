@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-add-card-details](screens/add-card-details)
+- [screen-account-settings](screens/account-settings)
 
 # Getting started: Frontend
 
